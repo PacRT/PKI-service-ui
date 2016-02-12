@@ -10,7 +10,6 @@ Run following command to kick off UI server. It will open the page in your defau
 npm install
 bower install
 gulp server
-
 ```
 
 > make sure you run npm install gulp bower -g if gulp is not installed
