@@ -1,6 +1,6 @@
 # PKI-service-ui Boiler Plate
 
-A Quick setup for Reactjs webpack powered by 
+A Quick setup for Reactjs webapp powered by Gulp, Reactjs, Browserify
 
 ###Usage
 
