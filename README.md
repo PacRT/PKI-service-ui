@@ -12,5 +12,5 @@ bower install
 gulp server
 ```
 
-> make sure you run ***npm install gulp bower -g** if gulp and bower is not installed
+> make sure you run **npm install gulp bower -g** if gulp and bower is not installed
 
